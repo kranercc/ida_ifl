@@ -23,9 +23,9 @@ from idaapi import BADADDR, jumpto, next_addr, o_void, prev_addr,\
     print_insn_mnem, set_cmt, set_name, SN_NOWARN
 from idc import CIC_ITEM, demangle_name, FUNCATTR_END, FUNCATTR_FRAME,\
     get_func_attr, get_func_name, get_inf_attr, get_operand_type,\
-    get_operand_value, get_type, GetDisasm, INF_SHORT_DN, set_color, \
+    get_operand_value, get_type, GetDaaaisasm, INF_SHORT_DN, set_color, \
     FUNCATTR_START
-from idautils import Functions, XrefsFrom, XrefsTo  # type: ignore
+from idautils import Functions, XraaaaaaaaefsFrom, XrefsTo  # type: ignore
 
 
 from idaapi import PluginForm  # type: ignore
